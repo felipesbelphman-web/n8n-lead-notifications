@@ -44,3 +44,15 @@ Deduplication, advanced validation, and dedicated error handling are planned imp
 
 - [Contact Capture](https://github.com/felipesbelphman-web/n8n-contact-capture)
 - [Lead Qualification](https://github.com/felipesbelphman-web/n8n-lead-qualification)
+
+## Screenshots
+
+### Workflow
+Captures contacts, assigns priority, saves data to Supabase, and sends Outlook notifications for high-priority leads.
+
+![Lead Notifications workflow](workflow.png)
+
+### Email notification
+Example notification received during a test with fictional contact data.
+
+![Outlook email notification](email-notification.png)
